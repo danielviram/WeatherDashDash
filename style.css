@@ -1,0 +1,24 @@
+
+#search-btn{
+    background-color:salmon;
+}
+
+#dash{
+    background-color: lightsalmon;
+    color: black;
+}
+.container {
+    background-color: lightskyblue;
+}
+.row{
+    background-color: lightskyblue;
+}
+#current-weather-conditions{
+    background-color: lightskyblue;
+
+}
+
+#five-day-forecast{
+    background-color: lightskyblue;
+
+}
